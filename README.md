@@ -1,5 +1,5 @@
-# 问题集
-1. 个人主页上的“+”下拉菜单可创建的四种类别分别有？分别的意思？  
+# 问题集二
+1. 个人主页上的“+”下拉菜单可创建的四种类别分别有？分别的意思？  
   new repository（新仓库） import repository（导入仓库） new gist（创建新依据  copy） new organizition（新组织）
 2. 如何能将仓库中的html文件直接解析成页面？  
 仓库中的设置  GitHub pages 可以直接点击链接
